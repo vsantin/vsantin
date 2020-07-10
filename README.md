@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+My name is Vinicius and I'm a full-stack developer. I`ve been worked with software development since 2010 and during this time I had the opportunity to work with many different technologies developing applications and coordinating development teams.
+
+Currently, this is my stack and technology I am working more often.
+
+#### Server-side and API Developments
+* ASP.NET (.NET and Core)
+* Node.js
+
+#### Front-side and JS Frameworks
+* Vue.js (Nuxt.js 👌🏻)
+* React.js
+
+#### Databases
+* SQL Server
+* Firestore
+* CosmosDB
+
+As all of us, I am in love with serverless platforms, I currently working a lot with Firebase and Azure Functions, Service Apps, and CosmosDB. Who is not?! 🤷‍♂️
 <!--
 **vsantin/vsantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
