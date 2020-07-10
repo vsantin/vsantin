@@ -13,7 +13,7 @@ Currently, this is my stack and technology I am working more often.
 * React.js
 
 #### Databases
-* SQL Server
+* SQL Server 👴🏻
 * Firestore
 * CosmosDB
 
