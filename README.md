@@ -13,7 +13,7 @@ Currently, those are the technologies I am working on more often.
 * React.js
 
 #### Databases
-* SQL Server 👴🏻
+* SQL Server
 * Firestore
 * CosmosDB
 
